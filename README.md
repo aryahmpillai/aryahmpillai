@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
    <img src="https://img.shields.io/badge/Nessus-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Codereview-orange?style=for-the-badge&logo=codereviewe&logoColor=white"/>
 </p>
 
 ---
