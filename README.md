@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
    <img src="https://img.shields.io/badge/Nessus-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
  <img src="https://img.shields.io/badge/Codereview-pink?style=for-the-badge&logo=codereviewe&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SonarQube-yellow?style=for-the-badge&logo=SonarQube&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SonarQube-yellow?style=for-the-badge&logo=SonarQube&logoColor=black"/>
 
 </p>
 
