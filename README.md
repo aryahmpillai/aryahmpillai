@@ -1,7 +1,7 @@
 ## Hi guys <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> 
  🛡️ Still learning Pentesting  
  📝 Content creator  
-
+ ✏️ diving deep into code review 
 ---
 
 ## 🚀 Knowledge & Skills
