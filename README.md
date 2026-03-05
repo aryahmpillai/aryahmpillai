@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Nessus-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Nessus-black?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
  <img src="https://img.shields.io/badge/Codereview-pink?style=for-the-badge&logo=codereviewe&logoColor=white"/>
   <img src="https://img.shields.io/badge/SonarQube-yellow?style=for-the-badge&logo=SonarQube&logoColor=black"/>
 
